@@ -4,7 +4,8 @@ contract Election {
 
 string public candidate;
 
-constructor() public {
+constructor () public {
 candidate = "Candidate 1";
-      }  }
+      } 
+}
 
