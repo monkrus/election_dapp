@@ -1,1 +1,5 @@
-# election_dapp is a a step by step instruction on building an election DApp 
+How to Build Ethereum Dapp (Decentralized Application Development Tutorial) https://www.youtube.com/watch?v=3681ZYbDSSk by DApp University
+Updated code for Solidity ^0.5.0; 
+
+
+
