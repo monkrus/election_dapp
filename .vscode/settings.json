@@ -1,9 +1,0 @@
-{"solidity.linter": "solium",
-    "solidity.soliumRules": {
-        "quotes": ["error", "double"],
-        "indentation": ["error", 2]
-    },
-    "git.ignoreLimitWarning": true,
-    "editor.detectIndentation": false
-
-}
